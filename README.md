@@ -1,16 +1,18 @@
-### Hi there 👋
+# Jiwon Min
+👋 Hi. I'm Jiwon, a web developer. I've experienced Java Spring Framework and Android development, and now I'm developing it using PHP. I'm interested in JavaScript now, and I'm studying NodeJS. Deno is also interested. Of course, I'm going to study after it stabilizes😅. And most of all, the language I want to learn the most is English. I need a translator now, but I want to understand it like a native speaker someday💦.
 
-<!--
-**dnessi/dnessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## My values
+* 🕐 Living in my timeline
+* 🤬 Honest expression of emotion
+* 🎓 Keep the original intention
+* 🚸 Safety comes first
+* 🤹 Think funny and young
 
-Here are some ideas to get you started:
+## How I work
+My motivation comes from solving curiosity🤔. We are trying to create a page that can maximize the user experience and develop various experimental programs. Sometimes I become lazy and don't practice my set goals💤, but I always try ✨not to forget✨ my original purpose with an obsession.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Get in touch
+- [Twitter](https://twitter.com/tritwte 'twitter')
+- [Facebook](https://facebook.com/febacook 'facebook')
+- [Instagram](https://instagram.com/codpen 'instagram')
+- [Blog](https://dessin.dev 'blog')
