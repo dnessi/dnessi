@@ -15,5 +15,4 @@ My motivation comes from solving curiosity🤔. I'm trying to create a page that
 - [Twitter](https://twitter.com/dnexxi 'twitter')
 - [Facebook](https://facebook.com/dnexxi 'facebook')
 - [Instagram](https://instagram.com/dnexxi 'instagram')
-- [Blog](https://dessin.dev 'blog')
-
+- [Gist](https://gist.github.com/dnessi 'gist')
