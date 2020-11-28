@@ -14,3 +14,4 @@ My motivation comes from solving curiosity🤔. I'm trying to create a page that
 ## Get in touch
 - [Facebook](https://facebook.com/jay.onease 'facebook')
 - [Instagram](https://instagram.com/jay.onease 'instagram')
+- [E-Mail](mailto:jiwonov@gmail.com 'e-mail')
