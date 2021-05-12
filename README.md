@@ -7,9 +7,6 @@
 
 ![Jiwon Min's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiwonmini&layout=compact&theme=dracula&hide_border=true&show_icons=true&title_color=f7f7f1)
 
-[![Facebook](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://facebook.com/jiwonmini)](https://facebook.com/jiwonmini)
-[![Twitter](https://img.shields.io/badge/twitter-299feb?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jiwonmini)](https://twitter.com/jiwonmini)
-[![Instagram](https://img.shields.io/badge/instagram-e4405f?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/jiwonmini)](https://instagram.com/jiwonmini)
 [![Gmail](https://img.shields.io/badge/gmail-ea4335?style=flat-square&logo=gmail&logoColor=white&link=mailto:jiwonov@gmail.com)](mailto:jiwonov@gmail.com)
 
 </div>
